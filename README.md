@@ -139,6 +139,10 @@ Then open your browser at:
   part-c-frontend/public/
   ```
 
+### 📸 Screenshot
+
+<img width="1710" height="685" alt="Screenshot 2025-11-12 at 1 55 49 PM" src="https://github.com/user-attachments/assets/6859a475-a454-44ac-adec-bde6422d82ed" />
+
 ---
 
 ## 🔒 Security Notes
