@@ -1,0 +1,18 @@
+=== Total Minutes per User ===
+user,total_minutes
+aisha,65
+maria,135
+raj,180
+
+=== Total Minutes per Task Type ===
+task_type,total_minutes
+code_review,45
+data_cleanup,95
+feature_dev,210
+meeting,30
+
+=== Top 3 Task Types ===
+task_type,total_minutes
+feature_dev,210
+data_cleanup,95
+code_review,45

@@ -1,0 +1,9 @@
+The most challenging part of this assessment was Part B — Mini Automation, where I encountered persistent issues with the Gemini API. Initially, I received a 404 “model not found” error while generating AI summaries. To debug this, I executed the command
+curl "https://generativelanguage.googleapis.com/v1/models?key=$GEMINI_API_KEY"
+in my Mac terminal to verify which models my API key supported. This revealed access to the Gemini 2.5 Flash and Pro models, not the older ones my script initially targeted. Updating the endpoint resolved the error and allowed successful communication with the Gemini API.
+
+Subsequently, I faced occasional 503 “model overloaded” responses due to server congestion. I implemented an automatic retry mechanism to handle such cases gracefully, improving the script’s stability and reliability.
+
+If the workflow fails in the future, I would first debug the API integration layer and request-response logic, as that was the primary source of errors. Tasks like web scraping and AI summarization could be efficiently orchestrated using n8n or LangChain to reduce manual scripting.
+
+Despite the technical hurdles, I successfully achieved all deliverables and produced accurate, automated summaries using the Gemini 2.5 Flash API.

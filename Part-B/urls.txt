@@ -1,0 +1,3 @@
+https://www.w3schools.com/python/pandas/pandas_intro.asp
+https://www.tutorialspoint.com/python/python_arrays.htm
+https://www.geeksforgeeks.org/python/python-basics/
