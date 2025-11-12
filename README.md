@@ -141,7 +141,7 @@ Then open your browser at:
 
 ### 📸 Screenshot
 
-<img width="1710" height="685" alt="Screenshot 2025-11-12 at 1 55 49 PM" src="https://github.com/user-attachments/assets/6859a475-a454-44ac-adec-bde6422d82ed" />
+<img width="1710" height="599" alt="Screenshot 2025-11-12 at 2 03 49 PM" src="https://github.com/user-attachments/assets/eff9f596-da31-4e67-b5cf-96139aa20b27" />
 
 ---
 
