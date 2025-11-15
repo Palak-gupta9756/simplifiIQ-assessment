@@ -4,8 +4,7 @@ import argparse
 import os
 import sys
 import pandas as pd
-import json
-from datetime import datetime
+
 
 def read_csv(path):
     try:
